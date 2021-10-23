@@ -10,8 +10,11 @@ Responder con el data set las siguientes preguntas:
 
 1. ¿Qué Entidad Federativa tiene más ocurrencias de muertes maternas?
 2. ¿Cuál es el rango de edad con mayor incidencia de muertes maternas?
-3. ¿Cuántas muertes maternas hay por tipo asistencia médica?
-4. ¿Cuál es la causa más común de muerte materna? 
-5. ¿Cuál es la cuasa más común de muerte materna por Entidad Federativa?
+3. ¿Cuántas defunciones hay con asistencia médica, sin asistencia médica o no especificada según la derechohabiencia de las pacientes?
+4. ¿Cuál es la causa más común de muerte materna?
+5. ¿Cuál es la causa más común de muerte materna por Entidad Federativa y por grupo de edad quinquenal?
+6. ¿Cuántas muertes hay por ocupación de las pacientes?
+7. ¿Cuántas defunciones hay por escolaridad de la paciente?
+8. ¿Hay más o menos incidencias de muerte materna de acuerdo a la ocupación, la escolaridad y la derechohabiencia de las pacientes?
 
 En el siguiente link se encuentra el notebook de python [proyecto_final_modulo_3.ipynb](https://github.com/almamelisa/Proyecto_final_Procesamiento_de_datos_Python/blob/main/proyecto_final_modulo_3.ipynb).
