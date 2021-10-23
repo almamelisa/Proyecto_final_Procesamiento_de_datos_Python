@@ -13,3 +13,5 @@ Responder con el data set las siguientes preguntas:
 3. ¿Cuántas muertes maternas hay por tipo asistencia médica?
 4. ¿Cuál es la causa más común de muerte materna? 
 5. ¿Cuál es la cuasa más común de muerte materna por Entidad Federativa?
+
+
